@@ -4,8 +4,6 @@ In a world drowning in endless content demands, imagine waking up to a freshly p
 
 Let's explore it.
 
-https://rebrand.ly/Autoshorts-ai
-
 <span style="font-family: helvetica, arial, sans-serif;"><a href="https://rebrand.ly/Autoshorts-ai"><img class="aligncenter loaded" src="https://i.imgur.com/XSo2dvH.png" data-lazy="true" /></a></span>
 
 ## What is AutoShorts.ai?
