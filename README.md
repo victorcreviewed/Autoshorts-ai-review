@@ -17,6 +17,8 @@ AutoShorts.ai is developed and maintained by a dedicated AI video software compa
 
 [Click here to sign up for free](https://rebrand.ly/Autoshorts-ai).
 
+<span style="font-family: helvetica, arial, sans-serif;"><a href="https://rebrand.ly/Autoshorts-ai"><img class="aligncenter loaded" src="https://i.imgur.com/XSo2dvH.png" data-lazy="true" /></a></span>
+
 ## AutoShorts.ai Features:
 ![Image](https://github.com/user-attachments/assets/df1522f2-0f85-4ece-8693-653d38703769)
 
