@@ -130,6 +130,7 @@ Educators & Trainers wanting bite-sized, multilingual explainer videos.
 Niche Professionals (e.g., accountancy services) looking to grow leads via “push-button” video campaigns.
 
 ## How to Use AutoShorts.ai:
+![Image](https://github.com/user-attachments/assets/8d7f1593-940c-4ac7-8504-1721907ce71d)
 
 Here's a step-by-step process on using and getting started with Autoshorts.ai.
 
