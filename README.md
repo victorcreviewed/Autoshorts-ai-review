@@ -20,6 +20,7 @@ AutoShorts.ai is developed and maintained by a dedicated AI video software compa
 [Click here to sign up for free](https://rebrand.ly/Autoshorts-ai).
 
 ## AutoShorts.ai Features:
+![Image](https://github.com/user-attachments/assets/df1522f2-0f85-4ece-8693-653d38703769)
 
 The features include:
 
