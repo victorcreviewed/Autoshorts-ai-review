@@ -9,6 +9,7 @@ https://rebrand.ly/Autoshorts-ai
 <span style="font-family: helvetica, arial, sans-serif;"><a href="https://rebrand.ly/Autoshorts-ai"><img class="aligncenter loaded" src="https://i.imgur.com/XSo2dvH.png" data-lazy="true" /></a></span>
 
 ## What is AutoShorts.ai?
+![Image](https://github.com/user-attachments/assets/16e59739-c99b-49cb-9210-d0a199f2dd39)
 
 AutoShorts.ai is an AI-powered platform that automates the creation of faceless short-form videos, transforming simple text prompts into fully produced clips complete with voiceover, B-roll, and captions. It’s designed specifically for vertical-format content on TikTok, YouTube Shorts, and Instagram Reels, letting you run entire series without ever showing your face.
 
