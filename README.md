@@ -67,6 +67,7 @@ Follow these steps to sign up to Autoshorts ai:
 [Click here to sign up for free](https://rebrand.ly/Autoshorts-ai).
 
 ## How does Autoshorts.ai work?
+![Image](https://github.com/user-attachments/assets/26a4f26e-05da-4394-9bc5-3ef40d653c73)
 
 AutoShorts.ai works by turning simple ideas into a ready-to-publish faceless videos in five automated steps: prompt input, script generation, visual asset assembly, audio/subtitle production, and scheduled publishing.
 
